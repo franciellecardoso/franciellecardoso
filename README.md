@@ -18,4 +18,4 @@ Cursando o 4º semestre em Análise e Desenvolvimento de Sistemas na FATEC ZL no
 
 # Contatos
 
-[<img scr='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/francielle-cardoso-84948814a/)
+[![Linkedin Badge](https://img.shields.io/badge/-franciellecardoso?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francielle-cardoso/)](https://www.linkedin.com/in/francielle-cardoso-84948814a/)
