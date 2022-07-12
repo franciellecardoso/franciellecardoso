@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**franciellecardoso/franciellecardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Biografia
 
-Here are some ideas to get you started:
+Cursando o 4º semestre em Análise e Desenvolvimento de Sistemas na FATEC ZL no período vespertino e procurando um estágio ;-; 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aprendendo
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciellecardoso&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+# Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=franciellecardoso&repo=franciellecardoso.github.io&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+# Contatos
+
+[<img scr='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/francielle-cardoso-84948814a/)
