@@ -2,7 +2,7 @@
 
 # Biografia
 
-Cursando o 4º semestre em Análise e Desenvolvimento de Sistemas na FATEC ZL no período vespertino e procurando um estágio ;-; 
+Cursando o 5º semestre em Análise e Desenvolvimento de Sistemas na FATEC ZL no período vespertino e procurando um estágio 
 
 ## Aprendendo
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
